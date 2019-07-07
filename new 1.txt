@@ -1,0 +1,95 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Business Marchant</title>
+
+  <meta charset="utf-8">
+  <meta http="X-UA-compatible" content="IE-edge">
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="css/bootstrap.css"> 
+  
+    <link rel="stylesheet" href="css/bootstrap.min/css">
+  <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+</head>
+
+
+
+<body>
+ 
+ <section class="section pt-0" >
+  <div class="container ">
+    <div class="row" >
+      <div class="col-12" >
+        <h1 class="titleh" style="margin-bottom: 50px; text-align: center;border: none;"  >Our Members</h1>
+      </div>
+    </div>
+    <div class="row justify-content-center" >
+      <!-- course item -->
+      <div class="col-lg-4 col-sm-6 mb-5" >
+        <div class="card p-0  hover-shadow">
+          <img class="card-img-top " src="images/bsn-4.jpg" alt="course thumb">
+          <div class="card-body" style="text-align: center;">
+            <ul class="list-inline mb-2">
+              <!-- <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>02-14-2018</li> -->
+              <li class="list-inline-item"><a class="text-color" href="">Humanities</a></li>
+            </ul>
+            <a href="">
+              <h4 class="card-title">Bussiness Loan</h4>
+            </a>
+            <p><a href="" class="social_icons"> <i class="fab fa-facebook-f" style="font-size: 20px; color: #0000ff;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-twitter" style="font-size: 20px; color: dodgerblue;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-youtube" style="font-size: 20px; color: #ff0000;"></i></a></p>
+          </div>
+        </div>
+      </div>
+      <!-- course item -->
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card p-0  hover-shadow">
+          <img class="card-img-top rounded-0" src="images/bsn-5.jpg" alt="course thumb">
+          <div class="card-body"style="text-align: center;">
+            <ul class="list-inline mb-2">
+              <!-- <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>02-14-2018</li> -->
+              <li class="list-inline-item"><a class="text-color" href="">Humanities</a></li>
+            </ul>
+            <a href="">
+              <h4 class="card-title">Bussiness Guide</h4>
+            </a> 
+            <p><a href="" class="social_icons"> <i class="fab fa-facebook-f" style="font-size: 20px; color: #0000ff;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-twitter" style="font-size: 20px; color: dodgerblue;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-youtube" style="font-size: 20px; color: #ff0000;"></i></a></p>
+          </div>
+        </div>
+      </div>
+      <!-- course item -->
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card p-0  hover-shadow">
+          <img class="card-img-top rounded-0" src="images/bsn-6.jpg" alt="course thumb">
+          <div class="card-body"style="text-align: center;">
+            <ul class="list-inline mb-2">
+              <!-- <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>02-14-2018</li> -->
+              <li class="list-inline-item"><a class="text-color" href="">Humanities</a></li>
+            </ul>
+            <a href="">
+              <h4 class="card-title">Lifestyle Archives</h4>
+            </a>
+            <p><a href="" class="social_icons"> <i class="fab fa-facebook-f" style="font-size: 20px; color: #0000ff;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-twitter" style="font-size: 20px; color: dodgerblue;"></i></a>
+          <a href="" class="social_icons"><i class="fab fa-youtube" style="font-size: 20px; color: #ff0000;"></i></a></p>
+          </div>
+        </div>
+      </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</body
+</html>
